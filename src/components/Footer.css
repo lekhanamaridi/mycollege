@@ -35,12 +35,8 @@
     font-size: 40px;
     text-align: center;
 }
-.a2{
-    display: flex;
-}
 .text{
     font-size: 20px;
-    text-align: justify;
 }
 .text1{
     font-size: 20px;
@@ -48,7 +44,8 @@
     margin-left: 60px;
 }
 .image6{
-    display: flex;
+    width: 800px;
+    height: 300px;
 }
 .text2{
     margin-left: 100px;
@@ -63,20 +60,36 @@
     text-align: left;
     margin-left: 40px;
 }
+.place{
+    display: flex;
+}
 .text3{
     background-color: yellow;
     color: black;
+    width: 500px;
+    border-radius: 100px;
+    justify-content: center;
+    margin-right: 100px;
+    margin-left: 50px;
+}
+.align{
     display: flex;
 }
-.text4{
-    margin-left: 150px;
+.styling3{
+    display: flex;
 }
-.text5{
-    margin-left: 150px;
+.l1{
+    font-size: 25px;
+    margin-left: 20px;
+    text-align: start;
 }
-.text6{
-    margin-left: 150px;
+.l2{
+    display: flex;
+    margin-left: 40px;
 }
-.text7{
-    margin-left: 150px;
+.l3{
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    justify-content: center;
 }

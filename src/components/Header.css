@@ -18,5 +18,19 @@
   .move5{
     margin-left: 100px;
   }
- 
+ .move1:hover{
+  color: yellow;
+ }
+ .move2:hover{
+  color:yellow;
+ }
+ .move3:hover{
+  color: yellow;
+ }
+ .move4:hover{
+  color: yellow;
+ }
+ .move5:hover{
+  color: yellow;
+ }
  
