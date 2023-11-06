@@ -40,8 +40,7 @@
   }
   .photosize{
     display: flex;
-    width: 1520px;
-    height: 500px;
+    width: 100%;
   }
   .move6:hover{
     color: yellow;
