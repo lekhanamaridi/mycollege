@@ -1,0 +1,45 @@
+.name{
+    background-color: green;
+    color: black;
+    display: flex;
+  }
+  .size{
+    width: 100px;
+    height: 100px;
+  }
+  .position{
+    margin-left: 300px;
+  }
+  .position1{
+    background-color: black;
+    color: white;
+    display: flex;
+  }
+  .move6{
+    margin-left: 100px;
+  }
+  .move7{
+    margin-left: 100px;
+    background-color: black;
+    color: white;
+  }
+  .move8{
+    margin-left: 100px;
+  }
+  .move9{
+    margin-left: 100px;
+  }
+  .move10{
+    margin-left: 100px;
+  }
+  .move11{
+    margin-left: 100px;
+  }
+  .move12{
+    margin-left: 100px;
+  }
+  .photosize{
+    display: flex;
+    width: 1520px;
+    height: 500px;
+  }

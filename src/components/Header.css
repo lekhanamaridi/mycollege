@@ -1,0 +1,22 @@
+.contact{
+    background-color: black;
+    color: white;
+    display: flex;
+  }
+  .move1{
+    margin-left: 60px;
+  }
+  .move2{
+    margin-left: 80px;
+  }
+  .move3{
+    margin-left: 80px;
+  }
+  .move4{
+    margin-left: 500px;
+  }
+  .move5{
+    margin-left: 100px;
+  }
+ 
+ 

@@ -1,0 +1,82 @@
+.styling{
+    background-color: white;
+    color: green;
+    font-family: cursive;
+    font-size: 30px;
+}
+.a1{
+    display: flex;
+}
+.image1{
+    width: 450px;
+    height: 250px;
+}
+.image2{
+    width: 450px;
+    height: 250px;
+}
+.image3{
+    width: 600px;
+    height: 505px;
+    align-content: center;
+}
+.image4{
+    width: 465px;
+    height: 250px;
+}
+.image5{
+    width: 465px;
+    height: 250px;
+}
+.styling1{
+    background-color: white;
+    color: green;
+    font-family: cursive;
+    font-size: 40px;
+    text-align: center;
+}
+.a2{
+    display: flex;
+}
+.text{
+    font-size: 20px;
+    text-align: justify;
+}
+.text1{
+    font-size: 20px;
+    text-align: left;
+    margin-left: 60px;
+}
+.image6{
+    display: flex;
+}
+.text2{
+    margin-left: 100px;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+}
+.styling2{
+    background-color: white;
+    color: green;
+    font-family: cursive;
+    font-size: 40px;
+    text-align: left;
+    margin-left: 40px;
+}
+.text3{
+    background-color: yellow;
+    color: black;
+    display: flex;
+}
+.text4{
+    margin-left: 150px;
+}
+.text5{
+    margin-left: 150px;
+}
+.text6{
+    margin-left: 150px;
+}
+.text7{
+    margin-left: 150px;
+}
