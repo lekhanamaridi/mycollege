@@ -16,6 +16,7 @@ function Footer()
             <div className="styling">
                 <h1><i><b>WELCOME TO OUR COLLEGE</b></i></h1>
             </div>
+            <hr></hr>
             <div className='a1'>
                 <div>
                     <img src={clg1} alt='' className='image1'></img>
