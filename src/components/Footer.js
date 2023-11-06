@@ -28,7 +28,7 @@ function Footer()
                     <h5>Dr. Shivamurthy Shivacharya Mahaswamiji<br></br> President, <br></br>STJ Education Society</h5>
                 </div>
                 <div>
-                    <img src={clg3} alt='' className='image4'></img>
+                    <img src={clg3} alt='change' className='image4'></img>
                     <br></br>
                     <img src={clg4} alt='' className='image5'></img>
                 </div>
