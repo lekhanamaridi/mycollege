@@ -14,9 +14,8 @@ function Footer()
     return(
         <div>
             <div className="styling">
-                <h1><i><b>WELCOME TO OUR COLLEGE</b></i></h1>
+                <h1><i><b>HELLO EVERYONE</b></i></h1>
             </div>
-            <hr></hr>
             <div className='a1'>
                 <div>
                     <img src={clg1} alt='' className='image1'></img>
@@ -28,7 +27,7 @@ function Footer()
                     <h5>Dr. Shivamurthy Shivacharya Mahaswamiji<br></br> President, <br></br>STJ Education Society</h5>
                 </div>
                 <div>
-                    <img src={clg3} alt='change' className='image4'></img>
+                    <img src={clg3} alt='' className='image4'></img>
                     <br></br>
                     <img src={clg4} alt='' className='image5'></img>
                 </div>
