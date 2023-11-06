@@ -6,7 +6,7 @@ function Title()
     return(
   <div>
     <div className='name'>
-        <img src={logo} alt=''className='size'></img>
+        <img src={logo} alt='' className='size'></img>
         <h2 className='position'>Sri Taralabalu Jagadguru Institute of Technology</h2>
     </div>
     <div className='position1'>
@@ -29,7 +29,7 @@ function Title()
         <p className='move12'>Contact</p>
     </div>
     <div>
-        <img src={image} alt=''className='photosize'></img>
+        <img src={image} alt='' className='photosize'></img>
     </div>
   </div>
     );
